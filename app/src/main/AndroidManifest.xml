@@ -10,17 +10,22 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Peoflip_7th">
         <activity
+            android:name=".FAB"
+            android:exported="true"
+            android:label="@string/title_activity_fab"
+            android:theme="@style/Theme.Peoflip_7th.NoActionBar" />
+        <activity
             android:name=".MainActivity"
-            android:screenOrientation="landscape"
-            android:exported="true">
+            android:exported="true"
+            android:screenOrientation="landscape">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".MainActivity2"></activity>
-        <activity android:name=".MainActivity3"></activity>
+        <activity android:name=".MainActivity2" />
+        <activity android:name=".MainActivity3" />
     </application>
 
 </manifest>
