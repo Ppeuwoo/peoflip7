@@ -3,10 +3,14 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Morri/peoflip_7th/app/src/main/res/layout-land/activity_main.xml" value="0.2945326278659612" />
+        <entry key="..\:/Morri/peoflip_7th/app/src/main/res/drawable/ic_baseline_code_24.xml" value="0.38229166666666664" />
+        <entry key="..\:/Morri/peoflip_7th/app/src/main/res/layout-land/activity_main.xml" value="0.5" />
         <entry key="..\:/Morri/peoflip_7th/app/src/main/res/layout/activity_main.xml" value="0.5" />
         <entry key="..\:/Morri/peoflip_7th/app/src/main/res/layout/activity_main2.xml" value="0.34791666666666665" />
         <entry key="..\:/Morri/peoflip_7th/app/src/main/res/layout/activity_main3.xml" value="0.34791666666666665" />
+        <entry key="..\:/Morri/peoflip_7th/app/src/main/res/layout/fragment_first.xml" value="0.36614583333333334" />
+        <entry key="..\:/Morri/peoflip_7th/app/src/main/res/layout/fragment_second.xml" value="0.36614583333333334" />
+        <entry key="..\:/Morri/peoflip_7th/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.38229166666666664" />
       </map>
     </option>
   </component>
